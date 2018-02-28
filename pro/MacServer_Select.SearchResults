@@ -1,0 +1,15 @@
+---- map Matches (15 in 4 files) ----
+commUint.h (d:\code_lib\macserver_sel\include):#include <map>
+Msgdata.cpp (d:\code_lib\macserver_sel\src):			std::map<char*, P_MacNode*>::iterator iter;
+Msgdata.cpp (d:\code_lib\macserver_sel\src):			std::map<char*, P_MacNode*>::iterator iter;
+Msgdata.cpp (d:\code_lib\macserver_sel\src):	std::map<char*, P_MacNode*>::iterator iter;
+Parsemsg.cpp (d:\code_lib\macserver_sel\src):	std::map<std::string, P_MacNode*>::iterator iter;
+Parsemsg.cpp (d:\code_lib\macserver_sel\src):		//get on the cloud, add into the map table, but we only need uuid.
+Parsemsg.cpp (d:\code_lib\macserver_sel\src):		//to add into the map, we will use it.
+Parsemsg.cpp (d:\code_lib\macserver_sel\src):		std::pair< std::map<std::string, P_MacNode*>::iterator, B_bool_t> ret;
+Parsemsg.cpp (d:\code_lib\macserver_sel\src):		//if add into the map failed, we will delete it and free memory
+Reactor.cpp (d:\code_lib\macserver_sel\src):	//to output statu map talbe, and add to information map talbe.
+Reactor.cpp (d:\code_lib\macserver_sel\src):	std::map<std::string, P_MacNode*>::iterator iter;
+Reactor.cpp (d:\code_lib\macserver_sel\src):		//add into information map talbe
+Reactor.cpp (d:\code_lib\macserver_sel\src):	std::map<std::string, P_MacNode*>::iterator iter;
+Reactor.cpp (d:\code_lib\macserver_sel\src):		std::map<std::string, P_MacNode*>::iterator iter;
